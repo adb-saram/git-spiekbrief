@@ -12,3 +12,5 @@ De eerste is beter, omdat die duidelijk zegt wat je hebt veranderd.
 
 ## 3. Gitignore
 Met gitignore zorg je ervoor dat Git bepaalde bestanden niet opslaat.
+## 4. Pull
+Met pull haal je de nieuwste aanpassingen van GitHub naar je laptop. Je gebruikt pull voordat je begint zodat je met de niewste versie werkt.
