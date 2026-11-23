@@ -7,5 +7,8 @@ Met pull haal je wat op GitHub staat naar je laptop
 
 ## 2. Een goed commitbericht
 Een goed voorbeeld; "Spiekbrief: uitleg over Git toegevoegd".
-Een slecht voorbeeld; "Iets aangepast".
+Een slecht voorbeeld; "Iets toegevoegd".
 De eerste is beter, omdat die duidelijk zegt wat je hebt veranderd.
+
+## 3. Gitignore
+Met gitignore zorg je ervoor dat Git bepaalde bestanden niet opslaat.
