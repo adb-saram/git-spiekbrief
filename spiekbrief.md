@@ -17,3 +17,6 @@ Met pull haal je de nieuwste aanpassingen van GitHub naar je laptop. Je gebruikt
 
 ## 5. revert
 Ik had deel 2 van mijn spiekrief verwijderd. Met revert heb ik die deel er terug ingezet.
+
+## 6. branches en pull requests
+Een branch = een aparte versie van de project. Main blijft de werkende versie omdat je daar niet meteen dingen verandert. Een pull rquest gebruik je om je aanpassingen van een branch aan main toe te voegen.
