@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub
+# Spiekbrief Git en GitHub, versie van mijn laptop
 ## 1. Clone, commit, push en pull
 Met clone kopieer je een project van GitHub naar je laptop.
 Met commit sla je je aanpassingen op
