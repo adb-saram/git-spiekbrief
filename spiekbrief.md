@@ -20,3 +20,6 @@ Ik had deel 2 van mijn spiekrief verwijderd. Met revert heb ik die deel er terug
 
 ## 6. branches en pull requests
 Een branch = een aparte versie van de project. Main blijft de werkende versie omdat je daar niet meteen dingen verandert. Een pull rquest gebruik je om je aanpassingen van een branch aan main toe te voegen.
+
+## 7. Mijn conflict
+Ik had de titel op GitHub en mijn laptop anders aangepast. Doordat wist Git niet welke titel het moest zijn. Ik heb de gewone titel gekozen.
